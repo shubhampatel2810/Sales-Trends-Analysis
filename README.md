@@ -16,6 +16,7 @@ Step 6: Visualization
 
 ![Screenshot (180)](https://github.com/shubhampatel2810/Sales-Trends-Analysis/assets/137332700/0ba81b4f-91f5-43f3-b384-d045f6f685e5)
 
+
 3# this will show highest sales by dates-----
 
 ![Screenshot (182)](https://github.com/shubhampatel2810/Sales-Trends-Analysis/assets/137332700/8da0ff40-054f-4ee8-b86b-88c90ca11548)
